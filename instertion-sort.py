@@ -2,7 +2,7 @@
 # Write Python 3 code in this online editor and run it.
 list=[5,4,3,2,1]
 n=len(list)
-#selection sort
+#insertion sort
 for i in range(1,n):
     temp=list[i]
     j=i-1
